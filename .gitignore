@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# è™šæ‹ŸçŽ¯å¢ƒ
+.venv/
+venv/
+env/
+
+# ç¼–è¾‘å™¨ / ç³»ç»Ÿ
+.vscode/
+.idea/
+*.swp
+~$*
+.DS_Store
+Thumbs.db
+
+# ÊµÑé±¨¸æ£º±¾µØ±£Áô£¬²»¹«¿ª
+ÇúÏßÄâºÏ_É³Ò²º­_2024011820.pdf
